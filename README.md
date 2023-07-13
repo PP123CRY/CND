@@ -1,0 +1,2 @@
+# CND
+jsdDeliver CDN
